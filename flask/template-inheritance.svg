@@ -1,0 +1,345 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: fig2dev Version 3.2 Patchlevel 5 -->
+<!-- CreationDate: Thu Mar  7 16:57:25 2019 -->
+<!-- Magnification: 1.000 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="8.8in" height="7.2in" viewBox="360 840 10618 8622">
+<g style="stroke-width:.025in; stroke:black; fill:none">
+<!-- Line: box -->
+<rect x="2550" y="1050" width="3525" height="3825" rx="0" 
+style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="2625" y="3450" width="3375" height="975" rx="0" 
+style="stroke:#008f00;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="2625" y="1950" width="3375" height="1125" rx="0" 
+style="stroke:#008f00;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Text -->
+<text xml:space="preserve" x="2550" y="1050" stroke="#0000ff" fill="#0000ff"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">base.html</text>
+<!-- Text -->
+<text xml:space="preserve" x="2625" y="1275" stroke="#000000" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">&#60;doctype html&#62;</text>
+<!-- Text -->
+<text xml:space="preserve" x="2625" y="1590" stroke="#000000" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">&#60;title&#62;</text>
+<!-- Text -->
+<text xml:space="preserve" x="3450" y="1575" stroke="#ff0000" fill="#ff0000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">{{title}}</text>
+<!-- Text -->
+<text xml:space="preserve" x="4425" y="1575" stroke="#000000" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">&#60;/title&#62;</text>
+<!-- Text -->
+<text xml:space="preserve" x="2700" y="1875" stroke="#008f00" fill="#008f00"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">block: content</text>
+<!-- Text -->
+<text xml:space="preserve" x="2775" y="2175" stroke="#000000" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">&#60;h1&#62;</text>
+<!-- Text -->
+<text xml:space="preserve" x="3450" y="2175" stroke="#ff0000" fill="#ff0000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">{{title}}</text>
+<!-- Text -->
+<text xml:space="preserve" x="4350" y="2175" stroke="#000000" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">&#60;/h1&#62;</text>
+<!-- Text -->
+<text xml:space="preserve" x="2775" y="2475" stroke="#000000" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">Lorem ipsum ...</text>
+<!-- Text -->
+<text xml:space="preserve" x="2625" y="3375" stroke="#008f00" fill="#008f00"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">block: footer</text>
+<!-- Text -->
+<text xml:space="preserve" x="2700" y="3675" stroke="#000000" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">(c) copyright, etc.</text>
+<!-- Line: box -->
+<rect x="7350" y="7950" width="3375" height="975" rx="0" 
+style="stroke:#008f00;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="7350" y="6450" width="3375" height="1125" rx="0" 
+style="stroke:#008f00;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="7275" y="5550" width="3525" height="3825" rx="0" 
+style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="375" y="5625" width="3525" height="3825" rx="0" 
+style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="450" y="8025" width="3375" height="975" rx="0" 
+style="stroke:#008f00;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="450" y="6525" width="3375" height="1125" rx="0" 
+style="stroke:#008f00;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="1725,5700
+1725,5699
+1724,5698
+1722,5695
+1719,5691
+1715,5684
+1710,5675
+1703,5664
+1695,5650
+1685,5633
+1673,5613
+1659,5590
+1644,5563
+1628,5534
+1609,5502
+1590,5467
+1569,5429
+1547,5388
+1524,5345
+1500,5300
+1475,5253
+1450,5204
+1425,5153
+1399,5100
+1373,5046
+1348,4991
+1323,4934
+1298,4876
+1273,4817
+1249,4757
+1226,4696
+1204,4633
+1182,4569
+1162,4504
+1142,4438
+1124,4370
+1106,4301
+1091,4230
+1076,4157
+1063,4082
+1052,4005
+1043,3926
+1035,3844
+1030,3761
+1027,3675
+1026,3588
+1028,3499
+1032,3408
+1040,3317
+1050,3225
+1064,3130
+1081,3037
+1101,2946
+1124,2857
+1148,2771
+1174,2688
+1202,2609
+1232,2532
+1263,2458
+1295,2388
+1328,2320
+1362,2254
+1397,2191
+1433,2130
+1470,2071
+1507,2014
+1546,1959
+1584,1906
+1624,1854
+1663,1803
+1703,1754
+1743,1706
+1783,1660
+1823,1615
+1863,1571
+1903,1529
+1941,1489
+1979,1450
+2016,1413
+2051,1378
+2085,1345
+2117,1315
+2147,1286
+2175,1260
+2201,1236
+2224,1215
+2245,1196
+2263,1180
+2278,1166
+2291,1154
+2302,1145
+2310,1138
+2316,1133
+2288,1157
+" style="stroke:#008f00;stroke-width:30;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 2316 1133 - 2358 1095-->
+<polyline points="2133 1459
+2320 1129
+1972 1281
+" style="stroke:#008f00;stroke-width:30;
+"/>
+<!-- Line -->
+<polyline points="9525,5550
+9525,5549
+9525,5548
+9525,5545
+9526,5540
+9526,5533
+9527,5524
+9528,5512
+9529,5497
+9531,5479
+9532,5458
+9534,5433
+9536,5405
+9538,5374
+9539,5340
+9541,5302
+9543,5261
+9545,5217
+9547,5170
+9548,5121
+9549,5069
+9550,5015
+9550,4959
+9550,4901
+9550,4841
+9548,4780
+9546,4718
+9543,4655
+9540,4590
+9535,4525
+9529,4458
+9522,4391
+9514,4323
+9505,4255
+9494,4186
+9482,4116
+9468,4045
+9452,3973
+9435,3901
+9415,3828
+9393,3753
+9369,3678
+9343,3601
+9314,3524
+9282,3445
+9247,3365
+9209,3284
+9168,3202
+9123,3119
+9075,3035
+9024,2951
+8969,2866
+8911,2783
+8850,2700
+8786,2619
+8720,2540
+8653,2464
+8584,2391
+8515,2321
+8445,2254
+8374,2190
+8304,2129
+8234,2071
+8164,2016
+8094,1964
+8025,1915
+7955,1868
+7886,1823
+7818,1781
+7749,1740
+7681,1702
+7613,1665
+7545,1630
+7478,1597
+7410,1565
+7343,1534
+7276,1505
+7210,1477
+7144,1450
+7079,1424
+7015,1399
+6951,1376
+6889,1353
+6828,1332
+6768,1311
+6710,1292
+6654,1273
+6601,1256
+6549,1240
+6500,1225
+6455,1211
+6412,1198
+6372,1187
+6336,1176
+6303,1167
+6273,1158
+6247,1151
+6225,1145
+6206,1140
+6190,1136
+6178,1132
+6168,1130
+6161,1128
+6197,1137
+" style="stroke:#008f00;stroke-width:30;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 6161 1128 - 6106 1113-->
+<polyline points="6533 1104
+6155 1126
+6470 1336
+" style="stroke:#008f00;stroke-width:30;
+"/>
+<!-- Text -->
+<text xml:space="preserve" x="7275" y="5550" stroke="#0000ff" fill="#0000ff"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">reading.html</text>
+<!-- Text -->
+<text xml:space="preserve" x="7425" y="6375" stroke="#008f00" fill="#008f00"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">block: content</text>
+<!-- Text -->
+<text xml:space="preserve" x="7350" y="7875" stroke="#008f00" fill="#008f00"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">block: footer</text>
+<!-- Text -->
+<text xml:space="preserve" x="7425" y="8175" stroke="#000000" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">(c) Scott &#38; the CS 304 staff</text>
+<!-- Text -->
+<text xml:space="preserve" x="7350" y="5850" stroke="#008f00" fill="#008f00"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">extends base.html</text>
+<!-- Text -->
+<text xml:space="preserve" x="7425" y="6675" stroke="#000000" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">&#60;h1&#62;Reading on </text>
+<!-- Text -->
+<text xml:space="preserve" x="9600" y="6675" stroke="#ff0000" fill="#ff0000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">{{title}}</text>
+<!-- Text -->
+<text xml:space="preserve" x="7425" y="6975" stroke="#000000" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">&#60;/h1&#62;</text>
+<!-- Text -->
+<text xml:space="preserve" x="7425" y="7200" stroke="#000000" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">&#60;article&#62;</text>
+<!-- Text -->
+<text xml:space="preserve" x="8625" y="7200" stroke="#ff0000" fill="#ff0000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">{{article}}</text>
+<!-- Text -->
+<text xml:space="preserve" x="7425" y="7500" stroke="#000000" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">&#60;/article&#62;</text>
+<!-- Text -->
+<text xml:space="preserve" x="375" y="5625" stroke="#0000ff" fill="#0000ff"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">activities.html</text>
+<!-- Text -->
+<text xml:space="preserve" x="525" y="6450" stroke="#008f00" fill="#008f00"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">block: content</text>
+<!-- Text -->
+<text xml:space="preserve" x="600" y="6750" stroke="#000000" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">&#60;h1&#62;Class on </text>
+<!-- Text -->
+<text xml:space="preserve" x="450" y="7950" stroke="#008f00" fill="#008f00"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">block: footer</text>
+<!-- Text -->
+<text xml:space="preserve" x="525" y="8250" stroke="#000000" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">(c) copyright, etc.</text>
+<!-- Text -->
+<text xml:space="preserve" x="2475" y="6750" stroke="#ff0000" fill="#ff0000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">{{title}}</text>
+<!-- Text -->
+<text xml:space="preserve" x="3375" y="6750" stroke="#000000" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">&#60;/h1&#62;</text>
+<!-- Text -->
+<text xml:space="preserve" x="600" y="7275" stroke="#000000" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">&#60;nav&#62;</text>
+<!-- Text -->
+<text xml:space="preserve" x="1425" y="7275" stroke="#ff0000" fill="#ff0000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">{{nav}}</text>
+<!-- Text -->
+<text xml:space="preserve" x="2400" y="7275" stroke="#000000" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">&#60;/nav&#62;</text>
+<!-- Text -->
+<text xml:space="preserve" x="450" y="5925" stroke="#008f00" fill="#008f00"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">extends base.html</text>
+<!-- Text -->
+<text xml:space="preserve" x="600" y="6975" stroke="#000000" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">&#60;p&#62;Only for class </text>
+<!-- Text -->
+<text xml:space="preserve" x="3000" y="7050" stroke="#ff0000" fill="#ff0000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="192" text-anchor="start">{{classdate}}</text>
+</g>
+</svg>
